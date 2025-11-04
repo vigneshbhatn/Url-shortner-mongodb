@@ -1,0 +1,10 @@
+# For the FastAPI Backend
+fastapi
+uvicorn[standard]
+pymongo
+shortuuid
+pydantic
+
+# For the Streamlit Frontend
+streamlit
+requests
